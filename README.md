@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ZZlNetApp - Network Infrastruture management Aplication   
-- 🌱 I’m currently learning  - Django
+- 🌱 I’m currently learning  - Full-Stack
 - 👯 I’m looking to collaborate on Python Development 
 
 
 <div>
-  Ola
+  <a href="https://beacons.ai/pereiramatumona">
 </div>
