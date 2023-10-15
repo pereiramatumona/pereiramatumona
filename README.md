@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 </div>
 
 ##
-<div style="display:flex" >
+<div style="display:inline_block" >
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </div>
