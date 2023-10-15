@@ -1,5 +1,5 @@
 ### Hi, I am Pereira Matumona 👋
-###
+##
 <!--
 **pereiramatumona/pereiramatumona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +17,8 @@ Here are some ideas to get you started:
   <img height="188em" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=pereiramatumona&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-###
+##
+<div style="display:flex" >
+  <i class="devicon-html5-plain colored"></i>        
+
+</div>
