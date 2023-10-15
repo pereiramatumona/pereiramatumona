@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 ##
 <div style="display:flex" >
-  <i class="devicon-html5-plain colored"></i>        
-
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </div>
