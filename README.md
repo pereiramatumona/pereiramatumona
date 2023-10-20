@@ -18,8 +18,7 @@ Here are some ideas to get you started:
   <img height="188em" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=pereiramatumona&layout=compact&langs_count=16&theme=dracula"/>
 </div>
     
-## Technology  
-##
+## Technologies That I Use
 <div style="display: inline_block"> 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,5 +29,7 @@ Here are some ideas to get you started:
   
 </div>
 
-##
+## Contacts
+ pereira_chriss@hotmail.com
+ periramatumona@gmail.com
 
