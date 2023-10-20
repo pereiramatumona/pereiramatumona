@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 </div>
 
 ## Contacts
- pereira_chriss@hotmail.com
+ pereira_chriss@hotmail.com <br>
  periramatumona@gmail.com
 
